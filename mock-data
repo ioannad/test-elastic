@@ -1,11 +1,11 @@
-{ "patient-id" : 21, "pain-before" : 9, "pain-after" : 3, "complications" : true, "op_date" : "2011-11-11", "comments" : "super annoying patient", "location" : "60.4,7.5"}
-{ "patient-id" : 22, "pain-before" : 5, "pain-after" : 3, "complications" : false, "op_date" : "2010-10-10", "comments" : "lovely person", "location" : "50.4,7.9"}
-{ "patient-id" : 23, "pain-before" : 8, "pain-after" : 7, "complications" : true, "op_date" : "2009-09-09", "comments" : "annoyed the hell out of me", "location" : "55.4,10.5"}
-{ "patient-id" : 24, "pain-before" : 10, "pain-after" : 1, "complications" : false, "op_date" : "2001-01-01", "comments" : "annoying complaining", "location" : "30.4,10.1"}
-{ "patient-id" : 25, "pain-before" : 8, "pain-after" : 4, "complications" : true, "op_date" : "2010-09-22", "comments" : "nice person", "location" : "20.4,17.5"}
-{ "patient-id" : 26, "pain-before" : 8, "pain-after" : 1, "complications" : false, "op_date" : "2017-09-21", "comments" : "nice lovely person", "location" : "10.4,2.5"}
-{ "patient-id" : 27, "pain-before" : 10, "pain-after" : 8, "complications" : true, "op_date" : "2015-01-15", "comments" : "annoying patient", "location" : "40.4,4.5"}
-{ "patient-id" : 28, "pain-before" : 4, "pain-after" : 7, "complications" : false, "op_date" : "2014-11-14", "comments" : "bla bla bla annoying", "location" : "54.4,14.5"}
-{ "patient-id" : 29, "pain-before" : 3, "pain-after" : 3, "complications" : true, "op_date" : "2011-10-04", "comments" : "bla bla bla nice", "location" : "56.4,6.5"}
-{ "patient-id" : 210, "pain-before" : 7, "pain-after" : 4, "complications" : false, "op_date" : "2014-10-13", "comments" : "no trouble, nice person", "location" : "60.4,27.5"}
-{ "patient-id" : 211, "pain-before" : 6, "pain-after" : 2, "complications" : false, "op_date" : "2011-01-13", "comments" : "foo bar annoying", "location" : "54.4,7.66"}
+{ "patient-id" : 21, "pain-before" : 9, "pain-after" : 3, "complications" : true, "op_date" : "2011-11-11", "comments" : "super annoying patient", "location" : "60.4,7.5", "bloodpressure-sys" : 110.8}
+{ "patient-id" : 22, "pain-before" : 5, "pain-after" : 3, "complications" : false, "op_date" : "2010-10-10", "comments" : "lovely person", "location" : "50.4,7.9", "bloodpressure-sys" : 90.4}
+{ "patient-id" : 23, "pain-before" : 8, "pain-after" : 7, "complications" : true, "op_date" : "2009-09-09", "comments" : "annoyed the hell out of me", "location" : "55.4,10.5", "bloodpressure-sys" : 115.8}
+{ "patient-id" : 24, "pain-before" : 10, "pain-after" : 1, "complications" : false, "op_date" : "2001-01-01", "comments" : "annoying complaining", "location" : "30.4,10.1", "bloodpressure-sys" : 130.9}
+{ "patient-id" : 25, "pain-before" : 8, "pain-after" : 4, "complications" : true, "op_date" : "2010-09-22", "comments" : "nice person", "location" : "20.4,17.5", "bloodpressure-sys" : 140.4}
+{ "patient-id" : 26, "pain-before" : 8, "pain-after" : 1, "complications" : false, "op_date" : "2017-09-21", "comments" : "nice lovely person", "location" : "10.4,2.5", "bloodpressure-sys" : 110.8}
+{ "patient-id" : 27, "pain-before" : 10, "pain-after" : 8, "complications" : true, "op_date" : "2015-01-15", "comments" : "annoying patient", "location" : "40.4,4.5", "bloodpressure-sys" : 185.3}
+{ "patient-id" : 28, "pain-before" : 4, "pain-after" : 7, "complications" : false, "op_date" : "2014-11-14", "comments" : "bla bla bla annoying", "location" : "54.4,14.5", "bloodpressure-sys" : 190.8}
+{ "patient-id" : 29, "pain-before" : 3, "pain-after" : 3, "complications" : true, "op_date" : "2011-10-04", "comments" : "bla bla bla nice", "location" : "56.4,6.5", "bloodpressure-sys" : 77.7}
+{ "patient-id" : 210, "pain-before" : 7, "pain-after" : 4, "complications" : false, "op_date" : "2014-10-13", "comments" : "no trouble, nice person", "location" : "60.4,27.5", "bloodpressure-sys" : 99.9}
+{ "patient-id" : 211, "pain-before" : 6, "pain-after" : 2, "complications" : false, "op_date" : "2011-01-13", "comments" : "foo bar annoying", "location" : "54.4,7.66", "bloodpressure-sys" : 113.3}
